@@ -1,0 +1,4 @@
+'&a&l1.%ajlb_lb_vault_eco_balance_1_weekly_name% &f- &e$%ajlb_lb_vault_eco_balance_1_weekly_value
+- '&a&l1.%ajlb_lb_vault_eco_balance_1_weekly_name% &f- &e$%ajlb_lb_vault_eco_balance_1_weekly_value%'
+%vault_eco_balance%
+%ajlb_lb_<board>_<number>_<type>_value%
